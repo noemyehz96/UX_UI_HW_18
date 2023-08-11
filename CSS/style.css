@@ -1,0 +1,55 @@
+.inline-block {
+    display:inline-block;
+    vertical-align: top;
+}
+
+.logo {
+    width: 23%;
+    padding: 1%;
+    text-align: center;
+    background-color: beige;
+}
+
+.nav {
+    width: 73%;
+    padding: 1%;-
+}
+
+ul {
+    width: 50%;
+    margin-left: auto;
+}
+
+li {
+    width: 50%;
+}
+
+.heroImg {
+    height: 600px;
+    padding: 25px;
+}
+
+.heroImg img {
+    width: 200px;
+}
+.content {
+    width: 500px;
+    margin: 0 auto;
+}
+
+.heroImg p{
+    background-color: beige;
+    border-radius: 5%;
+    padding: 2%;
+
+}
+
+footer {
+    background-color: #8edab6;
+}
+
+footer ul{
+    display:inline-block;
+    vertical-align: top;
+}
+
